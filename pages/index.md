@@ -3,6 +3,7 @@ layout: home
 
 hero:
   name: "Guides4Crates"
+  tagline: "User guides for Rust crates"
   image:
     src: /Guides4Crates.webp
     alt: "Guides4Crates"
