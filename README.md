@@ -1,5 +1,4 @@
-| ![Guides4Crates](./Guides4Crates.webp) | ![Guides4CratesSmall](./Guides4CratesSmall.webp) |
-|-|-|
+![Guides4Crates](./Guides4Crates.webp) ![Guides4CratesSmall](./Guides4CratesSmall.webp)
 
 # Guides4Crates
 
